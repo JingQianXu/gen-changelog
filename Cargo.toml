@@ -1,0 +1,9 @@
+[package]
+name = "gen-changelog"
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+regex = "1.10"
+chrono = "0.4"
+lazy_static = "1.4"
